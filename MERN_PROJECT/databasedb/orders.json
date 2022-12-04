@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "632e2a49306f55802539d96f"
+  },
+  "shippingInfo": {
+    "address": "809 Tran Hung Dao",
+    "city": "HCM",
+    "state": "quan 5",
+    "country": "Viet Nam",
+    "pinCode": 700000,
+    "phoneNo": 123456789
+  },
+  "orderItems": [
+    {
+      "name": "produc2",
+      "price": 1200,
+      "quantity": 1,
+      "image": "sample Image",
+      "product": {
+        "$oid": "631732802ca3c74b64cfe3b9"
+      },
+      "_id": {
+        "$oid": "632e2a49306f55802539d970"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "632deddc28554c3a8977e49b"
+  },
+  "paymentInfo": {
+    "id": "sample PaymentInfo",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1663969865872"
+    }
+  },
+  "itemsPrice": 200,
+  "taxPrice": 36,
+  "shippingPrice": 100,
+  "totalPrice": 336,
+  "orderStatus": "Delivered",
+  "createAt": {
+    "$date": {
+      "$numberLong": "1663969865880"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1663969983354"
+    }
+  }
+}]

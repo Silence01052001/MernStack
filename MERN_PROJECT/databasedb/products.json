@@ -1,0 +1,233 @@
+[{
+  "_id": {
+    "$oid": "631732802ca3c74b64cfe3b9"
+  },
+  "name": "product2",
+  "description": "this is a sample product",
+  "price": 1200,
+  "rating": 3,
+  "images": [
+    {
+      "public_id": "sample Image",
+      "url": "https://kenh14cdn.com/2018/9/9/39504782498811223864807856893918233099078n-15364767743641856870093.jpg",
+      "_id": {
+        "$oid": "631732802ca3c74b64cfe3ba"
+      }
+    }
+  ],
+  "category": "Laptop",
+  "stock": 0,
+  "numOfReviews": 300,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662464640538"
+    }
+  },
+  "__v": 0,
+  "ratings": 5
+},{
+  "_id": {
+    "$oid": "631732842ca3c74b64cfe3bc"
+  },
+  "name": "product3",
+  "description": "this is a sample product",
+  "price": 1200,
+  "rating": 0,
+  "images": [
+    {
+      "public_id": "sample Image",
+      "url": "https://kenh14cdn.com/2018/9/9/39504782498811223864807856893918233099078n-15364767743641856870093.jpg",
+      "_id": {
+        "$oid": "631732842ca3c74b64cfe3bd"
+      }
+    }
+  ],
+  "category": "Laptop",
+  "stock": 1,
+  "numOfReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662464644814"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631732882ca3c74b64cfe3bf"
+  },
+  "name": "product4",
+  "description": "this is a sample product",
+  "price": 1200,
+  "rating": 0,
+  "images": [
+    {
+      "public_id": "sample Image",
+      "url": "https://kenh14cdn.com/2018/9/9/39504782498811223864807856893918233099078n-15364767743641856870093.jpg",
+      "_id": {
+        "$oid": "631732882ca3c74b64cfe3c0"
+      }
+    }
+  ],
+  "category": "Laptop",
+  "stock": 1,
+  "numOfReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662464648804"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6317328c2ca3c74b64cfe3c2"
+  },
+  "name": "product5",
+  "description": "this is a sample product",
+  "price": 1200,
+  "rating": 0,
+  "images": [
+    {
+      "public_id": "sample Image",
+      "url": "https://kenh14cdn.com/2018/9/9/39504782498811223864807856893918233099078n-15364767743641856870093.jpg",
+      "_id": {
+        "$oid": "6317328c2ca3c74b64cfe3c3"
+      }
+    }
+  ],
+  "category": "Laptop",
+  "stock": 1,
+  "numOfReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662464652580"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631732912ca3c74b64cfe3c5"
+  },
+  "name": "product6",
+  "description": "this is a sample product",
+  "price": 1200,
+  "rating": 0,
+  "images": [
+    {
+      "public_id": "sample Image",
+      "url": "https://kenh14cdn.com/2018/9/9/39504782498811223864807856893918233099078n-15364767743641856870093.jpg",
+      "_id": {
+        "$oid": "631732912ca3c74b64cfe3c6"
+      }
+    }
+  ],
+  "category": "Laptop",
+  "stock": 1,
+  "numOfReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662464657610"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631732952ca3c74b64cfe3c8"
+  },
+  "name": "product7",
+  "description": "this is a sample product",
+  "price": 1200,
+  "rating": 0,
+  "images": [
+    {
+      "public_id": "sample Image",
+      "url": "https://kenh14cdn.com/2018/9/9/39504782498811223864807856893918233099078n-15364767743641856870093.jpg",
+      "_id": {
+        "$oid": "631732952ca3c74b64cfe3c9"
+      }
+    }
+  ],
+  "category": "Laptop",
+  "stock": 1,
+  "numOfReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662464661323"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "631732992ca3c74b64cfe3cb"
+  },
+  "name": "product8",
+  "description": "this is a sample product",
+  "price": 1200,
+  "rating": 0,
+  "images": [
+    {
+      "public_id": "sample Image",
+      "url": "https://kenh14cdn.com/2018/9/9/39504782498811223864807856893918233099078n-15364767743641856870093.jpg",
+      "_id": {
+        "$oid": "631732992ca3c74b64cfe3cc"
+      }
+    }
+  ],
+  "category": "Laptop",
+  "stock": 1,
+  "numOfReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1662464665522"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632dd0a20d124b94701d1954"
+  },
+  "name": "product",
+  "description": "this is a sample product",
+  "price": 12000,
+  "ratings": 5,
+  "images": [
+    {
+      "public_id": "sample Image",
+      "url": "https://kenh14cdn.com/2018/9/9/39504782498811223864807856893918233099078n-15364767743641856870093.jpg",
+      "_id": {
+        "$oid": "632dd0a20d124b94701d1955"
+      }
+    }
+  ],
+  "category": "Laptop",
+  "stock": 1,
+  "numOfReviews": 1,
+  "user": {
+    "$oid": "632da96d6408467f71657c8c"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "632deddc28554c3a8977e49b"
+      },
+      "name": "Thinh",
+      "rating": 5,
+      "comment": "Just Okay Product 1",
+      "_id": {
+        "$oid": "632dee0d28554c3a8977e4a0"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1663946914618"
+    }
+  },
+  "__v": 2
+}]

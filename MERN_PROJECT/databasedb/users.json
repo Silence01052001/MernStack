@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "632da96d6408467f71657c8c"
+  },
+  "name": "Văn Thinh",
+  "email": "vanthinh01052001@gmail.com",
+  "password": "$2a$10$eKd/e6RqE3WnkELfrR3lFeoa0GwJcvAuGawoUp9.r.ZmcQqKUcxM2",
+  "avatar": {
+    "public_id": "this is a sample id",
+    "url": "profilepicUrl"
+  },
+  "role": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632deddc28554c3a8977e49b"
+  },
+  "name": "Thinh",
+  "email": "vanthinh@gmail.com",
+  "password": "$2a$10$OwhH5y8PWQ9Z7WPONfClieYN/EkQ4BDCsvLzicwCF4iCeokYRxG22",
+  "avatar": {
+    "public_id": "this is a sample id",
+    "url": "profilepicUrl"
+  },
+  "role": "admin",
+  "__v": 0
+}]
